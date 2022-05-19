@@ -6,3 +6,6 @@ VR프로젝트로 폭탄 해체게임을 만들었습니다.
 https://www.youtube.com/watch?v=BYunaBkn9Ng
 위 링크의 게임을 벤치마킹하였습니다.
 
+
+
+https://github.com/dnwlsl10/Medici_VR_Project
